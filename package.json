@@ -10,7 +10,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "drivelist": "^6.4.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "minimist": "^1.2.5",
     "socket.io": "^2.1.1",
     "socket.io-file": "^2.0.2",
